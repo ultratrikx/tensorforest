@@ -1,5 +1,9 @@
 # Project Title: TensorForest
 
+## 🏆 Achievements
+
+We are thrilled to announce that TensorForest has won the WRO (World Robot Olympiad) Toronto Regional Competition in the Future Innovators category! 🎉 Our team's hard work, dedication, and innovative approach have been recognized as we now qualify for the national level. We are excited to continue refining our project and showcasing the potential of combining drone technology and machine learning to address environmental challenges.
+
 ## Introduction
 
 TensorForest is a Python-based application developed by Team #154 (Arnnav Kudale, Shayaan Azeem, and Rohanth Marem) designed to address the increasing threat of wildfires using automated drone technology and machine learning. Originating from a shared passion for robotics and environmental sustainability, the project aims to provide accurate and accessible data for wildfire prevention.
