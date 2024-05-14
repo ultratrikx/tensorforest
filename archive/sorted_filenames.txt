@@ -1,9 +1,0 @@
-row-3-column-1.jpg
-row-3-column-2.jpg
-row-3-column-3.jpg
-row-2-column-1.jpg
-row-2-column-2.jpg
-row-2-column-3.jpg
-row-1-column-1.jpg
-row-1-column-2.jpg
-row-1-column-3.jpg
