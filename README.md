@@ -63,6 +63,10 @@ To get a local copy up and running, follow these simple steps:
    ```
    python main.py
    ```
+   
+## Project Report
+
+For a more detailed explanation of our project, including our methodologies, challenges faced, and future steps, please refer to our [Project Report](https://docs.google.com/document/d/1PV5ZpG2WwoIyRysXYlh5ybRF15F8jOGm3pBe-vCCmi0/edit?usp=sharing).
 
 ## Contributing
 
@@ -80,6 +84,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Rohanth Marem - [@rohanthmarem](https://twitter.com/rohanthmarem) - rohanthm@outlook.com
+Rohanth Marem - [@rohanthmarem](https://twitter.com/rohanthmarem)
+Shayaan Azeem - [@shayaan_azeem](https://twitter.com/shayaan_azeem)
+Arnnav Kudale - [@blazecoding2009](https://github.com/blazecoding2009)
 
 Project Link: [https://github.com/ultratrikx/tensorforest](https://github.com/ultratrikx/tensorforest)
