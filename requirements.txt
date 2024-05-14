@@ -1,0 +1,5 @@
+numpy==1.21.2
+pandas==1.3.3
+tensorflow==2.6.0
+tensorflow-lite==2.4.0
+ardupilot==4.0.3
