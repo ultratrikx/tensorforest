@@ -1,4 +1,4 @@
-# Project Title: TensorForest
+# TensorForest
 
 ## 🏆 Achievements
 
@@ -84,8 +84,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Rohanth Marem - [@rohanthmarem](https://twitter.com/rohanthmarem)
-Shayaan Azeem - [@shayaan_azeem](https://twitter.com/shayaan_azeem)
-Arnnav Kudale - [@blazecoding2009](https://github.com/blazecoding2009)
+- Rohanth Marem - [@rohanthmarem](https://twitter.com/rohanthmarem)
+- Shayaan Azeem - [@shayaan_azeem](https://twitter.com/shayaan_azeem)
+- Arnnav Kudale - [@blazecoding2009](https://github.com/blazecoding2009)
 
 Project Link: [https://github.com/ultratrikx/tensorforest](https://github.com/ultratrikx/tensorforest)

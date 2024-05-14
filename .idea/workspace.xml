@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b262584-a1d4-4dcb-9668-3f69ef998378" name="Changes" comment="WRO win update" />
+    <list default="true" id="2b262584-a1d4-4dcb-9668-3f69ef998378" name="Changes" comment="Contributors update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +90,7 @@
       <workItem from="1715197879572" duration="594000" />
       <workItem from="1715214015291" duration="13696000" />
       <workItem from="1715357341980" duration="46000" />
-      <workItem from="1715698425184" duration="1382000" />
+      <workItem from="1715698425184" duration="1887000" />
     </task>
     <task id="LOCAL-00001" summary="readme update">
       <option name="closed" value="true" />
@@ -108,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715699811126</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Contributors update">
+      <option name="closed" value="true" />
+      <created>1715700319665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715700319665</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +136,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="readme update" />
     <MESSAGE value="WRO win update" />
-    <option name="LAST_COMMIT_MESSAGE" value="WRO win update" />
+    <MESSAGE value="Contributors update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contributors update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TF_WRO$density_heatmapV3.coverage" NAME="density_heatmapV3 Coverage Results" MODIFIED="1715220181079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
