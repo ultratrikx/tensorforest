@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <GroundOverlay id="2">
+            <name>row-1-column-1.jpg</name>
+            <Icon id="3">
+                <href>results/row-1-column-1.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>-43.4665</north>
+                <south>-43.4685</south>
+                <east>-79.70705599999999</east>
+                <west>-79.709056</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="5">
+            <name>row-1-column-2.jpg</name>
+            <Icon id="6">
+                <href>results/row-1-column-2.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>-43.4665</north>
+                <south>-43.4685</south>
+                <east>-79.706778</east>
+                <west>-79.70877800000001</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="8">
+            <name>row-1-column-3.jpg</name>
+            <Icon id="9">
+                <href>results/row-1-column-3.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>-43.4665</north>
+                <south>-43.4685</south>
+                <east>-79.706222</east>
+                <west>-79.70822200000001</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="11">
+            <name>row-2-column-1.jpg</name>
+            <Icon id="12">
+                <href>results/row-2-column-1.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>-43.466222</north>
+                <south>-43.468222</south>
+                <east>-79.70705599999999</east>
+                <west>-79.709056</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="14">
+            <name>row-2-column-2.jpg</name>
+            <Icon id="15">
+                <href>results/row-2-column-2.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>-43.466222</north>
+                <south>-43.468222</south>
+                <east>-79.706778</east>
+                <west>-79.70877800000001</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="17">
+            <name>row-2-column-3.jpg</name>
+            <Icon id="18">
+                <href>results/row-2-column-3.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>-43.466222</north>
+                <south>-43.468222</south>
+                <east>-79.706222</east>
+                <west>-79.70822200000001</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="20">
+            <name>row-3-column-1.jpg</name>
+            <Icon id="21">
+                <href>results/row-3-column-1.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>-43.465944</north>
+                <south>-43.467944</south>
+                <east>-79.70705599999999</east>
+                <west>-79.709056</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="23">
+            <name>row-3-column-2.jpg</name>
+            <Icon id="24">
+                <href>results/row-3-column-2.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>-43.465944</north>
+                <south>-43.467944</south>
+                <east>-79.706778</east>
+                <west>-79.70877800000001</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="26">
+            <name>row-3-column-3.jpg</name>
+            <Icon id="27">
+                <href>results/row-3-column-3.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>-43.465944</north>
+                <south>-43.467944</south>
+                <east>-79.706222</east>
+                <west>-79.70822200000001</west>
+            </LatLonBox>
+        </GroundOverlay>
+    </Document>
+</kml>

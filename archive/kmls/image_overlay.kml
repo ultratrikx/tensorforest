@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <GroundOverlay id="2">
+            <name>row-1-column-1.jpg</name>
+            <Icon id="3">
+                <href>https://huggingface.co/datasets/rohanth/tensorforests/resolve/main/row-1-column-1.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.4685</north>
+                <south>43.4665</south>
+                <east>-79.707056</east>
+                <west>-79.709056</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <Placemark id="6">
+            <name>row-1-column-1.jpg</name>
+            <LookAt>
+                <longitude>-79.708056</longitude>
+                <latitude>43.4675</latitude>
+                <altitude>142.4866690964714</altitude>
+                <heading>279.8065332338992</heading>
+                <tilt>0</tilt>
+                <altitudeMode>absolute</altitudeMode>
+                <range>218.0450042969824</range>
+            </LookAt>
+            <Point id="5">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+        <GroundOverlay id="8">
+            <name>row-1-column-2.jpg</name>
+            <Icon id="9">
+                <href>results/row-1-column-2.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.4685</north>
+                <south>43.4665</south>
+                <east>-79.706778</east>
+                <west>-79.70877800000001</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <Placemark id="12">
+            <name>row-1-column-2.jpg</name>
+            <LookAt>
+                <longitude>-79.707778</longitude>
+                <latitude>43.4675</latitude>
+                <altitude>142.4866690964714</altitude>
+                <heading>279.8065332338992</heading>
+                <tilt>0</tilt>
+                <altitudeMode>absolute</altitudeMode>
+                <range>218.0450042969824</range>
+            </LookAt>
+            <Point id="11">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+        <GroundOverlay id="14">
+            <name>row-1-column-3.jpg</name>
+            <Icon id="15">
+                <href>results/row-1-column-3.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.4685</north>
+                <south>43.4665</south>
+                <east>-79.706222</east>
+                <west>-79.708222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <Placemark id="18">
+            <name>row-1-column-3.jpg</name>
+            <LookAt>
+                <longitude>-79.707222</longitude>
+                <latitude>43.4675</latitude>
+                <altitude>142.4866690964714</altitude>
+                <heading>279.8065332338992</heading>
+                <tilt>0</tilt>
+                <altitudeMode>absolute</altitudeMode>
+                <range>218.0450042969824</range>
+            </LookAt>
+            <Point id="17">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+        <GroundOverlay id="20">
+            <name>row-2-column-1.jpg</name>
+            <Icon id="21">
+                <href>results/row-2-column-1.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.468222</north>
+                <south>43.466222</south>
+                <east>-79.707056</east>
+                <west>-79.709056</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <Placemark id="24">
+            <name>row-2-column-1.jpg</name>
+            <LookAt>
+                <longitude>-79.708056</longitude>
+                <latitude>43.467222</latitude>
+                <altitude>142.4866690964714</altitude>
+                <heading>279.8065332338992</heading>
+                <tilt>0</tilt>
+                <altitudeMode>absolute</altitudeMode>
+                <range>218.0450042969824</range>
+            </LookAt>
+            <Point id="23">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+        <GroundOverlay id="26">
+            <name>row-2-column-2.jpg</name>
+            <Icon id="27">
+                <href>results/row-2-column-2.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.468222</north>
+                <south>43.466222</south>
+                <east>-79.706778</east>
+                <west>-79.70877800000001</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <Placemark id="30">
+            <name>row-2-column-2.jpg</name>
+            <LookAt>
+                <longitude>-79.707778</longitude>
+                <latitude>43.467222</latitude>
+                <altitude>142.4866690964714</altitude>
+                <heading>279.8065332338992</heading>
+                <tilt>0</tilt>
+                <altitudeMode>absolute</altitudeMode>
+                <range>218.0450042969824</range>
+            </LookAt>
+            <Point id="29">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+        <GroundOverlay id="32">
+            <name>row-2-column-3.jpg</name>
+            <Icon id="33">
+                <href>results/row-2-column-3.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.468222</north>
+                <south>43.466222</south>
+                <east>-79.706222</east>
+                <west>-79.708222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <Placemark id="36">
+            <name>row-2-column-3.jpg</name>
+            <LookAt>
+                <longitude>-79.707222</longitude>
+                <latitude>43.467222</latitude>
+                <altitude>142.4866690964714</altitude>
+                <heading>279.8065332338992</heading>
+                <tilt>0</tilt>
+                <altitudeMode>absolute</altitudeMode>
+                <range>218.0450042969824</range>
+            </LookAt>
+            <Point id="35">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+        <GroundOverlay id="38">
+            <name>row-3-column-1.jpg</name>
+            <Icon id="39">
+                <href>results/row-3-column-1.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.467943999999996</north>
+                <south>43.465944</south>
+                <east>-79.707056</east>
+                <west>-79.709056</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <Placemark id="42">
+            <name>row-3-column-1.jpg</name>
+            <LookAt>
+                <longitude>-79.708056</longitude>
+                <latitude>43.466944</latitude>
+                <altitude>142.4866690964714</altitude>
+                <heading>279.8065332338992</heading>
+                <tilt>0</tilt>
+                <altitudeMode>absolute</altitudeMode>
+                <range>218.0450042969824</range>
+            </LookAt>
+            <Point id="41">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+        <GroundOverlay id="44">
+            <name>row-3-column-2.jpg</name>
+            <Icon id="45">
+                <href>results/row-3-column-2.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.467943999999996</north>
+                <south>43.465944</south>
+                <east>-79.706778</east>
+                <west>-79.70877800000001</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <Placemark id="48">
+            <name>row-3-column-2.jpg</name>
+            <LookAt>
+                <longitude>-79.707778</longitude>
+                <latitude>43.466944</latitude>
+                <altitude>142.4866690964714</altitude>
+                <heading>279.8065332338992</heading>
+                <tilt>0</tilt>
+                <altitudeMode>absolute</altitudeMode>
+                <range>218.0450042969824</range>
+            </LookAt>
+            <Point id="47">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+        <GroundOverlay id="50">
+            <name>row-3-column-3.jpg</name>
+            <Icon id="51">
+                <href>results/row-3-column-3.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.467943999999996</north>
+                <south>43.465944</south>
+                <east>-79.706222</east>
+                <west>-79.708222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <Placemark id="54">
+            <name>row-3-column-3.jpg</name>
+            <LookAt>
+                <longitude>-79.707222</longitude>
+                <latitude>43.466944</latitude>
+                <altitude>142.4866690964714</altitude>
+                <heading>279.8065332338992</heading>
+                <tilt>0</tilt>
+                <altitudeMode>absolute</altitudeMode>
+                <range>218.0450042969824</range>
+            </LookAt>
+            <Point id="53">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
