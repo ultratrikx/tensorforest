@@ -43,10 +43,6 @@ The team plans to further enhance and expand the project:
 - **Community Engagement:** Collaborating with authorities and organizations to deploy TensorForest in wildfire-prone areas and gather feedback.
 - **Commercialization:** Exploring partnerships to promote widespread adoption for wildfire management.
 
-## Conclusion
-
-TensorForest represents a promising solution to wildfire prevention, leveraging drone technology and machine learning. The project underscores the importance of interdisciplinary collaboration and adaptability in addressing complex environmental challenges. The team's ongoing refinement and expansion aim to contribute to global wildfire prevention efforts.
-
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps:
@@ -68,19 +64,6 @@ To get a local copy up and running, follow these simple steps:
 
 For a more detailed explanation of our project, including our methodologies, challenges faced, and future steps, please refer to our [Project Report](https://docs.google.com/document/d/1PV5ZpG2WwoIyRysXYlh5ybRF15F8jOGm3pBe-vCCmi0/edit?usp=sharing).
 
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
